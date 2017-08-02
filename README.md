@@ -1,1 +1,3 @@
-# GIt_SpecialLecture
+# Git Practice
+Git사용연습
+
